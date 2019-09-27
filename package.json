@@ -20,6 +20,9 @@
     "url": "https://github.com/lpezet/hpcc-cluster-cli/issues"
   },
   "homepage": "https://github.com/lpezet/hpcc-cluster-cli#readme",
+  "bin": {
+  	"hpcc-cluster": "bin/hpcc-cluster.bin.js"
+  },
   "dependencies": {
     "@lpezet/hpcc-cluster": "^1.1.0",
     "aws-sdk": "^2.433.0",
