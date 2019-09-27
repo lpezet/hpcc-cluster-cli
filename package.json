@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/lpezet/hpcc-cluster-cli#readme",
   "dependencies": {
-    "@lpezet/hpcc-cluster": "file:../hpcc-cluster",
+    "@lpezet/hpcc-cluster": "^1.1.0",
     "aws-sdk": "^2.433.0",
     "commander": "^2.19.0",
     "winston": "^2.4.4",
